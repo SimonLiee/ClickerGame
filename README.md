@@ -1,3 +1,18 @@
+# ClickerGame
+
+A simple clickergame made with Next.js, React and Tailwind CSS. Mostly for fun, but also to learn a bit about the frameworks.
+
+The game currently features two buildings and a simple farming system.  
+
+TODO:
+
+Make sure the count is saved.
+
+Add textures
+
+Add more buildings and general features.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
