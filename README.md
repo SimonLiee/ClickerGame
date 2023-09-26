@@ -4,7 +4,8 @@ A simple clickergame made with Next.js, React and Tailwind CSS. Mostly for fun, 
 
 The game currently features two buildings and a simple farming system.  
 
-TODO:
+
+## TODO:
 
 Make sure the count is saved.
 
