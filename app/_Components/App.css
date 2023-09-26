@@ -1,0 +1,10 @@
+.App {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: auto;
+  grid-template-areas: 
+    "counter clicker"
+    "buildings buildings"
+    "farm shop";
+}
+
