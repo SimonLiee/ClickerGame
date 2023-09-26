@@ -13,6 +13,10 @@ Add textures
 
 Add more buildings and general features.
 
+<img width="1267" alt="Screenshot 2023-09-26 at 10 43 17" src="https://github.com/SimonLiee/ClickerGame/assets/70335981/2d87a56d-0804-459a-86a8-326e8768b1d0">
+
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
